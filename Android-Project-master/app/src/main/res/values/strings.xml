@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Loyalty Cards</string>
+    <string name="owner_name_hint">Owner name</string>
+    <string name="owner_surname_hint">Owner surname</string>
+    <string name="client_id_hint">Client ID</string>
+    <string name="company_name_hint">Company name</string>
+    <string name="select_logo_button_text">Select logo</string>
+    <string name="select_color_button_text">Select color</string>
+    <string name="barcode_text">Barcode</string>
+    <string name="qrcode_text">QR code</string>
+    <string name="snackbar_delete_message">Card deleted</string>
+    <string name="snackbar_add_message">Card addded</string>
+    <string name="snackbar_undo_message">UNDO</string>
+    <string name="check_delete_card_message">Are you sure you want to delete the card?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="please_fill_all_fields_alert">Please fill all fields</string>
+    <string name="ok">Ok</string>
+    <string-array name="colors_text">
+        <item>White</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Green</item>
+    </string-array>
+</resources>
